@@ -1,0 +1,26 @@
+{
+  "name": "ogum",
+  "version": "0.1.0",
+  "description": "A meta-framework for building web servers in Rust, where any frontend architecture is welcome.",
+  "keywords": [
+    "rust",
+    "web",
+    "framework",
+    "wasm",
+    "server"
+  ],
+  "homepage": "https://github.com/ogum-rs/ogum#readme",
+  "bugs": {
+    "url": "https://github.com/ogum-rs/ogum/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogum-rs/ogum.git"
+  },
+  "license": "MIT",
+  "author": "Francisco Solla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
