@@ -1,0 +1,14 @@
+[package]
+name = "ogum"
+version = "0.1.0"
+edition = "2024"
+authors = ["Francisco Solla <fsolla@pm.me>"]
+license = "MIT"
+description = "A meta-framework for building web servers in Rust, where any frontend architecture is welcome."
+repository = "https://github.com/ogum-rs/ogum"
+homepage = "https://github.com/ogum-rs/ogum"
+readme = "README.md"
+keywords = ["web", "framework", "server", "meta", "frontend"]
+categories = ["web-programming", "web-programming::http-server"]
+
+[dependencies]
